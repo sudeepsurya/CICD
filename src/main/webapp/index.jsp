@@ -43,7 +43,7 @@
       <div class="hero-unit">
         <div>
           <h1>
-            Welcome to Sundeep's Fitness Tracker!
+            Welcome to Guraja's Fitness Tracker!
           </h1>
           <p>
             To get started, we need to enter a goal for what we want to exercise for
