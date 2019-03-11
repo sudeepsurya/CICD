@@ -32,7 +32,7 @@
       <div class="navbar-inner">
         <div class="container">
           <a class="brand" href="addGoal.html">
-            Hello Sundeep
+            Hello vineesh
           </a>
           <ul class="nav">
           </ul>
@@ -43,7 +43,7 @@
       <div class="hero-unit">
         <div>
           <h1>
-            Welcome to  james's Fitness Tracker!
+            Welcome to  vineesh's Fitness Tracker!
           </h1>
           <p>
             To get started, we need to enter a goal for what we want to exercise for
